@@ -1,0 +1,29 @@
+/*HOJA DE ESTILOS PARA TODOS LOS HTML*/
+h1 {
+    color:teal;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h2 {
+    color:teal;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        
+}
+p {
+    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;   
+}
+footer{
+    font-size: smaller;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
